@@ -1,0 +1,4 @@
+{
+	"rust-analyzer.linkedProjects": ["./trojan/Cargo.toml", "./server/Cargo.toml"],
+	"cSpell.words": ["chrono", "hcode"]
+}
